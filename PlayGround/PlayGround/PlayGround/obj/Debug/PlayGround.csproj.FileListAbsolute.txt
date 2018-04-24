@@ -1,0 +1,6 @@
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\bin\Debug\PlayGround.exe.config
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\bin\Debug\PlayGround.exe
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\bin\Debug\PlayGround.pdb
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.csprojResolveAssemblyReference.cache
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.exe
+c:\users\asc55922\documents\visual studio 2013\Projects\PlayGround\PlayGround\obj\Debug\PlayGround.pdb
